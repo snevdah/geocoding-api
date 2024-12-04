@@ -1,0 +1,11 @@
+# Project exclude paths
+.idea
+
+# Maven specific files
+target/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
